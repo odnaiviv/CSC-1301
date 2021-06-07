@@ -1,6 +1,4 @@
 /*
- * Vivian Do
- * CSC 1301
  * July 17, 2020
  * 
  * Lab 6 part A: Nesty Me Numbers
