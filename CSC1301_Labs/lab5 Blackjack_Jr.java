@@ -1,6 +1,4 @@
 /*
- * Vivian Do
- * CSC 1301
  * July 09, 2020
  * 
  * Lab 5: Blackjack Jr
