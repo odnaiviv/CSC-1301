@@ -1,6 +1,4 @@
 /*
- * Vivian Do
- * CSC 1301
  * July 29, 2020
  * 
  * Homework 7 Bonus Program 2
