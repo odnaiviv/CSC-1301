@@ -1,6 +1,4 @@
 /*
- * Vivian Do
- * CSC 1301
  * July 03, 2020
  * 
  * Lab 4: Conditional Statement Execution
