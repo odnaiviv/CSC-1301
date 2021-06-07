@@ -1,6 +1,4 @@
 /*
- * Vivian Do
- * CSC 1301
  * July ??, 2020
  * 
  * Homework 4: Find Greatest Value as a Switch Case Statement
