@@ -1,6 +1,4 @@
 /*
- * Vivian Do
- * CSC 1301
  * July ??, 2020
  * 
  * Homework 4: I Called You Program
