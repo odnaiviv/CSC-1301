@@ -1,6 +1,4 @@
 /*
- * Vivian Do
- * CSC 1301
  * July 24, 2020
  * 
  * Lab 7: Swap All Program (Arrays)
