@@ -1,6 +1,4 @@
 /*
- * Vivian Do
- * CSC 1301
  * July 10, 2020
  * 
  * Lab 5: Counting Down
