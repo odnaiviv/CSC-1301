@@ -1,6 +1,4 @@
 /*
- * Vivian Do
- * CSC 1301
  * July 22, 2020
  * 
  * Homework 6: Full XMas Tree
