@@ -1,6 +1,4 @@
 /*
- * Vivian Do
- * CSC 1301
  * July 15, 2020
  * 
  * Homework 5: Guess a Number
